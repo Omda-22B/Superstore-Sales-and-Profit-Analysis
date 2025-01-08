@@ -22,39 +22,39 @@ The Home Dashboard provides a summary of overall sales and profit performance, c
 
 Performance Metrics:
 
-Total Sales: $2.33M (Growth Rate: 47.16% compared to last year)
+- Total Sales: $2.33M (Growth Rate: 47.16% compared to last year)
 
-Total Profit: $292.30K (Growth Rate: 48.05%)
+- Total Profit: $292.30K (Growth Rate: 48.05%)
 
-% Returned Orders: 5.79%
+- % Returned Orders: 5.79%
 
-Total Customers: 804
+- Total Customers: 804
 
 # Visualizations:
 
 Sales and Sales PY by Month (Line Chart): 
 
-Highlights monthly sales trends compared to the previous year, showing strong performance in November ($352.66K).
+- Highlights monthly sales trends compared to the previous year, showing strong performance in November ($352.66K).
 
 Sales by Ship Mode (Pie Chart):
 
 Breakdown of sales by shipping modes:
 
-Standard Class: $1.38M
+- Standard Class: $1.38M
 
-Second Class: $0.47M
+- Second Class: $0.47M
 
-First Class: $0.35M
+- First Class: $0.35M
 
-Same Day: $0.13M
+- Same Day: $0.13M
 
 Sales by Region (Bar Chart):
 
-Displays sales performance in four regions (Central, West, South, East), with the highest sales in the Central region ($48K).
+- Displays sales performance in four regions (Central, West, South, East), with the highest sales in the Central region ($48K).
 
 Interactive Map:
 
-Shows key cities like Los Angeles, San Francisco, and Dallas contributing to sales.
+- Shows key cities like Los Angeles, San Francisco, and Dallas contributing to sales.
 
 ![Home.png](Home.png)
 
