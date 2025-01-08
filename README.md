@@ -98,35 +98,55 @@ Shows key cities like Los Angeles, San Francisco, and Dallas contributing to sal
 ![Home.png](Home.png)
 
 
-3. Order Dashboard
+# 3. Order Dashboard
 The Order Dashboard focuses on detailed analysis of orders, discounts, and fulfillment time.
 
-Key Features:
+# Key Features:
 Order Metrics:
 
 Total Orders: 5111
+
 Average Order Value: $455.20
+
 Orders with Discounts: 3004 (58.78%)
+
 Average Fulfillment Time: 3.96 days
-Visualizations:
+
+# Visualizations:
 
 Orders by Month (Line Chart):
-Highlights seasonal trends, with a peak in December (738 orders) and significant activity in Los Angeles.
+
+- Highlights seasonal trends, with a peak in December (738 orders) and significant activity in Los Angeles.
+
 Orders by Segment (Pie Chart):
+
 Segmentation of orders:
-Consumer: 51.8%
-Corporate: 30.31%
-Home Office: 17.88%
+
+- Consumer: 51.8%
+
+- Corporate: 30.31%
+
+- Home Office: 17.88%
+
 Total Orders and Discounts by Region (Bar Chart):
-West region leads with 1657 orders and 990 discounts, followed by East, Central, and South.
+
+- West region leads with 1657 orders and 990 discounts, followed by East, Central, and South.
+
+
 Top 10 Products by Orders (Bar Chart):
+
 The most ordered products include:
-Staples (50 orders)
-Staple envelope (48 orders)
-Easy-staple paper (46 orders)
-How to Use
+- Staples (50 orders)
+- Staple envelope (48 orders)
+- Easy-staple paper (46 orders)
+
+# How to Use
 Open the Power BI file to explore the dashboards interactively.
+
 Use the filters and slicers to analyze data by specific categories, regions, or time periods.
-Conclusion
-This project provides valuable insights into sales, profit, and order performance for the superstore. The interactive dashboards empower decision-makers to identify trends, evaluate performance, and optimize strategies.
+
+# Conclusion
+This project provides valuable insights into sales, profit, and order performance for the superstore.
+
+The interactive dashboards empower decision-makers to identify trends, evaluate performance, and optimize strategies.
 
