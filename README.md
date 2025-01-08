@@ -8,52 +8,12 @@ This project focuses on analyzing sales, profit, and order data for a superstore
 
 # Technologies Used:
 # Tools:
-Power BI (Data Visualization)
+- Power BI (Data Visualization)
 
 # Languages: 
-DAX, SQL (for data preparation and calculations)
+- DAX, SQL (for data preparation and calculations)
 
-# 1. Customer Dashboard
-The Customer Dashboard provides an overview of sales, profit, and order data for all customers.
-
-# Key Features:
-Sales Metrics:
-
-Total Sales: $2.33M
-
-Total Profit: $292.3K
-
-Total Orders: 5111
-
-# Visualizations:
-Sales by Month (Line Chart):
-
-Displays a declining trend in sales over the year, starting from $0.35M in November and decreasing to $0.06M in February.
-
-Sales by Category (Pie Chart):
-
-Breakdown of sales across categories:
-
-Technology: $839.89K
-
-Furniture: $754.75K
-
-Office Supplies: $731.89K
-
-Data Table:
-A detailed table showing:
-
-Product names
-
-Order dates
-
-Order IDs
-
-Sales and profit for each product
-
-![Customer.png](Customer.png)
-
-# 2. Home Dashboard
+# 1. Home Dashboard
 
 The Home Dashboard provides a summary of overall sales and profit performance, comparing it to the previous year (PY).
 
@@ -98,6 +58,48 @@ Shows key cities like Los Angeles, San Francisco, and Dallas contributing to sal
 ![Home.png](Home.png)
 
 
+# 2. Customer Dashboard
+- The Customer Dashboard provides an overview of sales, profit, and order data for all customers.
+
+# Key Features:
+Sales Metrics:
+
+- Total Sales: $2.33M
+
+- Total Profit: $292.3K
+
+- Total Orders: 5111
+
+# Visualizations:
+Sales by Month (Line Chart):
+
+- Displays a declining trend in sales over the year, starting from $0.35M in November and decreasing to $0.06M in February.
+
+Sales by Category (Pie Chart):
+
+Breakdown of sales across categories:
+
+- Technology: $839.89K
+
+- Furniture: $754.75K
+
+- Office Supplies: $731.89K
+
+Data Table:
+A detailed table showing:
+
+- Product names
+
+- Order dates
+
+- Order IDs
+
+- Sales and profit for each product
+
+![Customer.png](Customer.png)
+
+
+
 # 3. Order Dashboard
 The Order Dashboard focuses on detailed analysis of orders, discounts, and fulfillment time.
 
@@ -139,6 +141,10 @@ The most ordered products include:
 - Staples (50 orders)
 - Staple envelope (48 orders)
 - Easy-staple paper (46 orders)
+
+![Order.png](Order.png)
+
+
 
 # How to Use
 Open the Power BI file to explore the dashboards interactively.
