@@ -1,14 +1,15 @@
 # Superstore-Sales-and-Profit-Analysis
+
+# Description
 This project involves building interactive dashboards using Power BI to analyze sales, profit, and order data for a superstore from 2020 to 2023. The dashboards provide key insights into customer behavior, sales trends, and performance metrics across categories, regions, and time periods, helping decision-makers optimize their strategies.
 
-# Superstore Sales and Profit Analysis
-
-# Overview
-This project focuses on analyzing sales, profit, and order data for a superstore using interactive dashboards. The project aims to provide insights into customer behavior, sales trends, and performance metrics across different categories, regions, and time periods.
 
 # Technologies Used:
 # Tools:
-- Power BI (Data Visualization)
+- Power Query power query data cleaning
+- Power BI: For interactive dashboards and data visualization.
+- DAX & SQL: For data preparation, calculations, and measures.
+
 
 # Languages: 
 - DAX, SQL (for data preparation and calculations)
