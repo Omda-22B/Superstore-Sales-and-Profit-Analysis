@@ -59,49 +59,7 @@ Interactive Map:
 ![Home.png](Home.png)
 
 
-# 2. Customer Dashboard
-- The Customer Dashboard provides an overview of sales, profit, and order data for all customers.
-
-# Key Features:
-Sales Metrics:
-
-- Total Sales: $2.33M
-
-- Total Profit: $292.3K
-
-- Total Orders: 5111
-
-# Visualizations:
-Sales by Month (Line Chart):
-
-- Displays a declining trend in sales over the year, starting from $0.35M in November and decreasing to $0.06M in February.
-
-Sales by Category (Pie Chart):
-
-Breakdown of sales across categories:
-
-- Technology: $839.89K
-
-- Furniture: $754.75K
-
-- Office Supplies: $731.89K
-
-Data Table:
-A detailed table showing:
-
-- Product names
-
-- Order dates
-
-- Order IDs
-
-- Sales and profit for each product
-
-![Customer.png](Customer.png)
-
-
-
-# 3. Order Dashboard
+# 2. Order Dashboard
 The Order Dashboard focuses on detailed analysis of orders, discounts, and fulfillment time.
 
 # Key Features:
@@ -144,6 +102,51 @@ The most ordered products include:
 - Easy-staple paper (46 orders)
 
 ![Order.png](Order.png)
+
+
+# 3. Customer Dashboard
+- The Customer Dashboard provides an overview of sales, profit, and order data for all customers.
+
+# Key Features:
+Sales Metrics:
+
+- Total Sales: $2.33M
+
+- Total Profit: $292.3K
+
+- Total Orders: 5111
+
+# Visualizations:
+Sales by Month (Line Chart):
+
+- Displays a declining trend in sales over the year, starting from $0.35M in November and decreasing to $0.06M in February.
+
+Sales by Category (Pie Chart):
+
+Breakdown of sales across categories:
+
+- Technology: $839.89K
+
+- Furniture: $754.75K
+
+- Office Supplies: $731.89K
+
+Data Table:
+A detailed table showing:
+
+- Product names
+
+- Order dates
+
+- Order IDs
+
+- Sales and profit for each product
+
+![Customer.png](Customer.png)
+
+
+
+
 
 
 
