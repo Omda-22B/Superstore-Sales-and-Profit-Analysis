@@ -48,15 +48,24 @@ Total Customers: 804
 
 # Visualizations:
 
-Sales and Sales PY by Month (Line Chart):
+Sales and Sales PY by Month (Line Chart): 
+
 Highlights monthly sales trends compared to the previous year, showing strong performance in November ($352.66K).
+
 Sales by Ship Mode (Pie Chart):
+
 Breakdown of sales by shipping modes:
+
 Standard Class: $1.38M
+
 Second Class: $0.47M
+
 First Class: $0.35M
+
 Same Day: $0.13M
+
 Sales by Region (Bar Chart):
+
 Displays sales performance in four regions (Central, West, South, East), with the highest sales in the Central region ($48K).
 Interactive Map:
 Shows key cities like Los Angeles, San Francisco, and Dallas contributing to sales.
