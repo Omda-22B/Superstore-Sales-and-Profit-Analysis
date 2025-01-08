@@ -7,43 +7,66 @@ This project involves building interactive dashboards using Power BI to analyze 
 This project focuses on analyzing sales, profit, and order data for a superstore using interactive dashboards. The project aims to provide insights into customer behavior, sales trends, and performance metrics across different categories, regions, and time periods.
 
 # Technologies Used:
-Tools: Power BI (Data Visualization)
-Languages: DAX, SQL (for data preparation and calculations)
-1. Customer Dashboard
+# Tools:
+Power BI (Data Visualization)
+
+# Languages: 
+DAX, SQL (for data preparation and calculations)
+
+# 1. Customer Dashboard
 The Customer Dashboard provides an overview of sales, profit, and order data for all customers.
 
 # Key Features:
+Sales Metrics:
 
-# Sales Metrics:
 Total Sales: $2.33M
+
 Total Profit: $292.3K
+
 Total Orders: 5111
 
 # Visualizations:
 Sales by Month (Line Chart):
+
 Displays a declining trend in sales over the year, starting from $0.35M in November and decreasing to $0.06M in February.
+
 Sales by Category (Pie Chart):
+
 Breakdown of sales across categories:
+
 Technology: $839.89K
+
 Furniture: $754.75K
+
 Office Supplies: $731.89K
+
 Data Table:
 A detailed table showing:
 
 Product names
+
 Order dates
+
 Order IDs
+
 Sales and profit for each product
 
+![Customer.png](Customer.png)
+
 # 2. Home Dashboard
+
 The Home Dashboard provides a summary of overall sales and profit performance, comparing it to the previous year (PY).
 
 # Key Features:
+
 Performance Metrics:
 
 Total Sales: $2.33M (Growth Rate: 47.16% compared to last year)
+
 Total Profit: $292.30K (Growth Rate: 48.05%)
+
 % Returned Orders: 5.79%
+
 Total Customers: 804
 
 # Visualizations:
@@ -67,7 +90,9 @@ Same Day: $0.13M
 Sales by Region (Bar Chart):
 
 Displays sales performance in four regions (Central, West, South, East), with the highest sales in the Central region ($48K).
+
 Interactive Map:
+
 Shows key cities like Los Angeles, San Francisco, and Dallas contributing to sales.
 
 ![Home.png](Home.png)
