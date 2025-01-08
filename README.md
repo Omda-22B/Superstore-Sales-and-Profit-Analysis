@@ -1,24 +1,25 @@
 # Superstore-Sales-and-Profit-Analysis
 This project involves building interactive dashboards using Power BI to analyze sales, profit, and order data for a superstore from 2020 to 2023. The dashboards provide key insights into customer behavior, sales trends, and performance metrics across categories, regions, and time periods, helping decision-makers optimize their strategies.
 
-Superstore Sales and Profit Analysis
-Overview
+# Superstore Sales and Profit Analysis
+
+# Overview
 This project focuses on analyzing sales, profit, and order data for a superstore using interactive dashboards. The project aims to provide insights into customer behavior, sales trends, and performance metrics across different categories, regions, and time periods.
 
-Technologies Used:
+# Technologies Used:
 Tools: Power BI (Data Visualization)
 Languages: DAX, SQL (for data preparation and calculations)
 1. Customer Dashboard
 The Customer Dashboard provides an overview of sales, profit, and order data for all customers.
 
-Key Features:
-Sales Metrics:
+# Key Features:
 
+# Sales Metrics:
 Total Sales: $2.33M
 Total Profit: $292.3K
 Total Orders: 5111
-Visualizations:
 
+# Visualizations:
 Sales by Month (Line Chart):
 Displays a declining trend in sales over the year, starting from $0.35M in November and decreasing to $0.06M in February.
 Sales by Category (Pie Chart):
@@ -33,17 +34,19 @@ Product names
 Order dates
 Order IDs
 Sales and profit for each product
-2. Home Dashboard
+
+# 2. Home Dashboard
 The Home Dashboard provides a summary of overall sales and profit performance, comparing it to the previous year (PY).
 
-Key Features:
+# Key Features:
 Performance Metrics:
 
 Total Sales: $2.33M (Growth Rate: 47.16% compared to last year)
 Total Profit: $292.30K (Growth Rate: 48.05%)
 % Returned Orders: 5.79%
 Total Customers: 804
-Visualizations:
+
+# Visualizations:
 
 Sales and Sales PY by Month (Line Chart):
 Highlights monthly sales trends compared to the previous year, showing strong performance in November ($352.66K).
@@ -57,6 +60,10 @@ Sales by Region (Bar Chart):
 Displays sales performance in four regions (Central, West, South, East), with the highest sales in the Central region ($48K).
 Interactive Map:
 Shows key cities like Los Angeles, San Francisco, and Dallas contributing to sales.
+
+![Home.png](Home.png)
+
+
 3. Order Dashboard
 The Order Dashboard focuses on detailed analysis of orders, discounts, and fulfillment time.
 
